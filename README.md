@@ -10,18 +10,26 @@ Android相机屏幕适配
  - [Tong ZHAN](https://www.polarxiong.com/)
  
 [Android相机开发(一): 最简单的相机](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E4%B8%80-%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E7%9B%B8%E6%9C%BA.html)
+
 [Android相机开发(二): 给相机加上偏好设置](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E4%BA%8C-%E7%BB%99%E7%9B%B8%E6%9C%BA%E5%8A%A0%E4%B8%8A%E5%81%8F%E5%A5%BD%E8%AE%BE%E7%BD%AE.html)
+
 [Android相机开发(三): 实现拍照录像和查看](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E4%B8%89-%E5%AE%9E%E7%8E%B0%E6%8B%8D%E7%85%A7%E5%BD%95%E5%83%8F%E5%92%8C%E6%9F%A5%E7%9C%8B.html)
+
 [Android相机开发(四): 旋转与纵横比](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E5%9B%9B-%E6%97%8B%E8%BD%AC%E4%B8%8E%E7%BA%B5%E6%A8%AA%E6%AF%94.html)
+
 [Android相机开发(五): 触摸对焦,触摸测光,二指手势缩放](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E4%BA%94-%E8%A7%A6%E6%91%B8%E5%AF%B9%E7%84%A6-%E8%A7%A6%E6%91%B8%E6%B5%8B%E5%85%89-%E4%BA%8C%E6%8C%87%E6%89%8B%E5%8A%BF%E7%BC%A9%E6%94%BE.html)
 [Android相机开发(六): 高效实时处理预览帧数据](https://www.polarxiong.com/archives/Android%E7%9B%B8%E6%9C%BA%E5%BC%80%E5%8F%91-%E5%85%AD-%E9%AB%98%E6%95%88%E5%AE%9E%E6%97%B6%E5%A4%84%E7%90%86%E9%A2%84%E8%A7%88%E5%B8%A7%E6%95%B0%E6%8D%AE.html)
 	 
  - [yanzi1225627](https://my.csdn.net/yanzi1225627)
  
 [玩转Android Camera开发(一):Surfaceview预览Camera,基础拍照功能完整demo](https://blog.csdn.net/yanzi1225627/article/details/33028041)
+
 [玩转Android Camera开发(二):使用TextureView和SurfaceTexture预览Camera 基础拍照demo](https://blog.csdn.net/yanzi1225627/article/details/33313707)
+
 [玩转Android Camera开发(三):国内首发---使用GLSurfaceView预览Camera 基础拍照demo](https://blog.csdn.net/yanzi1225627/article/details/33339965/)
+
 [玩转Android Camera开发(四):预览界面四周暗中间亮，只拍摄矩形区域图片(附完整源码)](https://blog.csdn.net/yanzi1225627/article/details/34931759/)
+
 [玩转Android Camera开发(五):基于Google自带算法实时检测人脸并绘制人脸框(网络首发，附完整demo)](https://blog.csdn.net/yanzi1225627/article/details/38098729/)
 
 
