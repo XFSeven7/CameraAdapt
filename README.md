@@ -6,9 +6,9 @@ Android相机屏幕适配
 具体思路可以参见我的这篇文章
 [Android 相机屏幕适配](https://blog.csdn.net/it_xf/article/details/80996456)
 
+# 测试：
 
 ----------
-#**测试**：
 
 机型：华为荣耀8 （厂商：honor，型号：FRD-AL00） 
 相机支持的预览分辨率：
