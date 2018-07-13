@@ -44,17 +44,16 @@ Android相机屏幕适配
 
 **适配前**
 
-<center class="half">
-    <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" width="200"/>
-    <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" width="200"/>
-</center>
+竖屏和横屏：</br>
+<img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
+<img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
 我们可以看到，已经变形，在竖屏的情况下，图像已经被挤扁了，横屏则是被拉伸了
 
 
 **适配后**
 
-
+竖屏和横屏：</br>
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
@@ -91,7 +90,7 @@ Android相机屏幕适配
 
 **适配前**
 
-
+竖屏和横屏：</br>
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
@@ -99,6 +98,6 @@ Android相机屏幕适配
 
 **适配后**
 
-
+竖屏和横屏：</br>
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
