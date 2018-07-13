@@ -41,20 +41,30 @@ Android相机屏幕适配
 首先我们来看看荣耀8的，未适配的情况下的样子
 
 荣耀8 
+
 **适配前**
 
 竖屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
+
 横屏
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
+
 我们可以看到，已经变形，在竖屏的情况下，图像已经被挤扁了，横屏则是被拉伸了
 
 
 **适配后**
+
 竖屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
+
 横屏
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
+
 结果显而易见，各个方向的显像都是正常的
 
 
@@ -87,14 +97,23 @@ Android相机屏幕适配
 
 
 **适配前**
+
 竖屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
+
 横屏
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
+
 可以看到具有全面屏的s8+变形的还挺厉害
 
 **适配后**
+
 竖屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
+
 横屏
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
