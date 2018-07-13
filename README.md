@@ -44,7 +44,7 @@ Android相机屏幕适配
 
 **适配前**
 
-竖屏和横屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
@@ -53,7 +53,7 @@ Android相机屏幕适配
 
 **适配后**
 
-竖屏和横屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E8%8D%A3%E8%80%808%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
@@ -90,7 +90,7 @@ Android相机屏幕适配
 
 **适配前**
 
-竖屏和横屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E6%9C%AA%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
 
@@ -98,6 +98,6 @@ Android相机屏幕适配
 
 **适配后**
 
-竖屏和横屏：
+
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E7%AB%96.jpg" title="Logo" width="200" /> 
 <img src="https://raw.githubusercontent.com/qixuefeng/CameraAdaptDemo/master/pics/%E4%B8%89%E6%98%9Fs8%2B%E5%B7%B2%E9%80%82%E9%85%8D%E6%A8%AA.jpg" title="Logo" width="200" /> 
